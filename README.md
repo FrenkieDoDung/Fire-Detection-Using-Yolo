@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fire Detection Using YOLO
 
 This project implements a real-time fire detection system using YOLOv8 object detection model.
@@ -46,4 +47,4 @@ Below is an example of the fire detection system in action:
 
 =======
 # Fire-Detection-Using-Yolo
-
+>>>>>>> aaf0fec2e393709e3fcbdcf9f72ed6f1212abaf2
